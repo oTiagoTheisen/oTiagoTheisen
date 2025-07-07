@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+# oTiagoTheisen
+>>>>>>> 0d2c644 (Meu perfil README.md moderno)
