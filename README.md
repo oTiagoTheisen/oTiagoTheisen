@@ -33,10 +33,6 @@ Olá! Sou o Tiago, desenvolvedor apaixonado por criar soluções inteligentes e 
  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
 </div>
 
-<div align="center">
-  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0367.gif" width="100%"/>
-</div>
-
 ---
 
 ## 📱 Projetos em destaque
@@ -70,3 +66,6 @@ Olá! Sou o Tiago, desenvolvedor apaixonado por criar soluções inteligentes e 
 ---
 
 > ✨ Sempre buscando aprender mais e entregar projetos de impacto. Vamos transformar ideias em soluções reais e impressionantes!
+<div align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0367.gif" width="100%"/>
+</div>
