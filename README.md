@@ -32,8 +32,10 @@ Olá! Sou o Tiago, desenvolvedor apaixonado por criar soluções inteligentes e 
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
 </div>
-<img src="https://i.imgur.com/KgKaodA.png" alt="Linha Neon" width="100%" />
 
+<div align="center">
+  <img src="https://i.imgur.com/KgKaodA.png" alt="Linha Neon" width="100%" />
+</div>
 
 ---
 
