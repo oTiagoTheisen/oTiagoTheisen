@@ -1,7 +1,13 @@
-<h1 align="center">👨‍💻 Tiago Theisen</h1>
+<h1 align="center">👨‍💻 Tiago José Theisen</h1>
+ </div>
+<div align=center>
+   <a href="https://github.com/Shubhodaya">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
 
 <p align="center">
-  <b>🚀 Estudante de tecnologia | PHP · MySQL · React Native | Sempre aprendendo, sempre criando</b><br><br>
+  <b>🚀 Estudante de tecnologia | PHP · MySQL · React Native | Sempre aprendendo, sempre criando e sempre descobrindo coisas novas.</b><br><br>
   <img src="https://raw.githubusercontent.com/oTiagoTheisen/your-assets/main/dev-animated.gif" width="500px" alt="Coding animation"/>
 </p>
 
