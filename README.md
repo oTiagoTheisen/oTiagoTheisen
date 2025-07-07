@@ -34,7 +34,7 @@ Olá! Sou o Tiago, desenvolvedor apaixonado por criar soluções inteligentes e 
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/KgKaodA.png" alt="Linha Neon" width="100%" />
+  <img src="https://raw.githubusercontent.com/tiagotestassets/assets/main/lines/neon-line.png" width="100%" />
 </div>
 
 ---
