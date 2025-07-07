@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0019.gif" border="0" alt="linha-imagem-animada-0019" /></a>
+</div>
+
+
 <h1 align="center">👨‍💻 Tiago José Theisen</h1>
  </div>
 <div align=center>
