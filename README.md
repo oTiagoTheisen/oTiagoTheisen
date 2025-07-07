@@ -1,20 +1,60 @@
-<<<<<<< HEAD
-## Hi there 👋
+<h1 align="center">👨‍💻 Tiago Theisen</h1>
 
-<!--
-**oTiagoTheisen/oTiagoTheisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🚀 Estudante de tecnologia | PHP · MySQL · React Native | Sempre aprendendo, sempre criando</b><br><br>
+  <img src="https://raw.githubusercontent.com/oTiagoTheisen/your-assets/main/dev-animated.gif" width="500px" alt="Coding animation"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
-# oTiagoTheisen
->>>>>>> 0d2c644 (Meu perfil README.md moderno)
+## 🚀 Sobre mim
+
+Olá! Sou o Tiago, desenvolvedor apaixonado por criar soluções inteligentes e visuais modernos. Estou trilhando minha jornada no mundo da programação com foco em projetos práticos, apps mobile e sistemas web. Cada repositório aqui é parte do meu aprendizado contínuo.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-2025DD?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+</div>
+
+---
+
+## 📱 Projetos em destaque
+
+### 🧾 [CV‑Online](https://github.com/oTiagoTheisen/cv-online)
+> App para criar currículos digitais via mobile com React Native + Expo.
+
+### ⏱️ [Relógio de Ponto](https://github.com/oTiagoTheisen/relogio_ponto)
+> Sistema completo em PHP para controle de horários com login e painel de administração.
+
+### 🧮 [IMC Calculator](https://github.com/oTiagoTheisen/imc-calculator-main)
+> Calculadora de IMC funcional com design moderno.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oTiagoTheisen&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTiagoTheisen&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+---
+
+## 📫 Entre em contato
+
+- 📧 Email: **tiagojosetheisen@gmail.com**  
+- 📱 WhatsApp: **(51) 99922-2967**  
+- 💼 LinkedIn (em breve...)
+
+---
+
+> ✨ Sempre buscando aprender mais e entregar projetos de impacto. Vamos transformar ideias em soluções reais e impressionantes!
