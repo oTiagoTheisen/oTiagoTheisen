@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <b>🚀 Estudante de tecnologia | PHP · MySQL · React Native | Sempre aprendendo, sempre criando e sempre descobrindo coisas novas.</b><br><br>
+  <b>🚀 Estudante de tecnologia | PHP · MySQL · C# | Sempre aprendendo, sempre criando e sempre descobrindo coisas novas.</b><br><br>
   <img src="https://raw.githubusercontent.com/oTiagoTheisen/your-assets/main/dev-animated.gif" width="500px" alt="Coding animation"/>
 </p>
 
