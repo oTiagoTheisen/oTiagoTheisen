@@ -6,7 +6,6 @@
 <h1 align="center">👨‍💻 Tiago José Theisen</h1>
  </div>
 <div align=center>
-   <a href="https://github.com/Shubhodaya">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
