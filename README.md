@@ -56,12 +56,6 @@ Olá! Sou o Tiago, desenvolvedor apaixonado por criar soluções inteligentes e 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oTiagoTheisen&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTiagoTheisen&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 ---
 
